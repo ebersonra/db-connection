@@ -8,6 +8,10 @@
 - Apache 2.4
 - PHP 7.2
 - Driver de conexão com o banco de dados que será testada a conexão.
+# PDO drivers support: 
+- mysql 5.0.2
+- pgsql 10.12
+- oci 8
 
 ## Essa app suporta conexão com MySQL, PgSql e Oracle.
 
