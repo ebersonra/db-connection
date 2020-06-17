@@ -1,6 +1,7 @@
 # db-connection
 @autor: Eberson Ramos
 ## Aplicação em PHP para testes de conexão com banco de dados.
+![alt text](https://github.com/ebersonra/db-connection/blob/master/images-db/db-exemplo.png?raw=true)
 
 
 # Requisitos
